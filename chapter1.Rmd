@@ -10,6 +10,6 @@ date(4.11.2021)
 
 ```
 The text continues here.
-"Meny challenges in getting started."
+"Many challenges in getting started. But this is very exiting. https://github.com/Tuuri1/IODS-project"
 
 
