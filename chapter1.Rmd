@@ -11,7 +11,7 @@
 ```
 The text continues here.
 "Many challenges in getting started. But this is very exiting. https://github.com/Tuuri1/IODS-project"
-
+The session 4.11. at Metsätalo was very helpful.
 ```{r}
 plot(c(1,2,3,4))
 ```
