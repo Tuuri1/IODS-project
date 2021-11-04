@@ -6,8 +6,10 @@
 ```{r}
 # This is a so-called "R chunk" where you can write R code.
 
-date()
+date(4.11.2021)
 
 ```
 The text continues here.
+"Meny challenges in getting started."
+
 
